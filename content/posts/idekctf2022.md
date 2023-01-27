@@ -1,7 +1,7 @@
 ---
 title: "idekCTF 2022 writeup"
 date: 2023-01-26T05:35:45Z
-draft: true
+draft: false
 brief: "Readme / SimpleFileServer / Paywall"
 
 tags:
