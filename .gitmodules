@@ -1,0 +1,6 @@
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/kaslaanka"]
+	path = themes/kaslaanka
+	url = https://github.com/M1cR0xf7/kaslaanka.git

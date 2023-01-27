@@ -1,0 +1,29 @@
+sitename: "blog.cxbt.kr"
+baseURL: "https://blog.cxbt.kr"
+languageCode: ko-kr
+title: "blog.cxbt.kr 🦕"
+author: cxbt
+theme: kaslaanka
+
+enableEmoji: true
+hasCJKLanguage: true
+pygmentsstyle: "tango"
+pygmentscodefences: true
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+
+
+defaultContentLanguage: ko
+languages:
+  ko:
+    LanguageName: Korean
+
+params:
+  baseURL: "https://blog.cxbt.kr"
+  sitename: "🦕"
+  copyrights: CXBT
+  brief_about: <center>마구 쓰는 블로그 ❤️️</center>
